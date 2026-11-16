@@ -1,0 +1,10 @@
+{
+  "name": "partitioned-sql-result-writer",
+  "version": "0.1.0",
+  "private": true,
+  "description": "JavaScript 查询结果分区写入库，处理稳定排序、多文件输出、续写和完整性清单",
+  "main": "src/writer.js",
+  "scripts": {
+    "test": "node --test"
+  }
+}
